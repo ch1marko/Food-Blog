@@ -5,6 +5,7 @@ body {
 .navbar1 {
   display: flex;
   justify-content: space-between;
+  padding: 20px;
   background-color: blue;
 }
 .navbar1 a {
@@ -13,4 +14,8 @@ body {
   margin-left: 60px;
   margin-right: 60px;
   font-size: 35px;
+  transition: 1s font-size;
+}
+.navbar1 a:hover {
+  font-size: 55px;
 }/*# sourceMappingURL=about.css.map */
