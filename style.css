@@ -3,5 +3,22 @@ header .navi {
   justify-content: space-between;
 }
 header .navi a {
+  padding: 20px;
+  font-size: 20px;
   text-decoration: none;
+  color: black;
+}
+
+.navbar {
+  border-top: solid rgb(191, 191, 191);
+  border-bottom: solid rgb(191, 191, 191);
+  margin-left: 0;
+  margin-right: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.navbar a {
+  padding: 20px;
+  text-decoration: none;
+  color: black;
 }/*# sourceMappingURL=style.css.map */
