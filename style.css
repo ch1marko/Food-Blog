@@ -69,13 +69,12 @@ footer .navbarlow .icons {
   margin-top: 20px;
   margin-left: 300px;
 }
-footer .navbarlow .icons insta {
+footer .navbarlow .icons .insta {
   position: relative;
-  margin-left: 100px;
+  margin-left: 35px;
 }
 footer .navbarlow img {
-  align-items: center;
-  top: 30px;
+  padding: 30px;
   height: 30px;
   margin-left: -30px;
 }
