@@ -25,4 +25,16 @@ header .topnav .logo {
   padding: 20px;
   text-decoration: none;
   color: black;
+}
+
+.navbarlow {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 35%;
+  background-color: black;
+}
+.navbarlow a {
+  padding: 18px;
+  color: white;
+  text-decoration: none;
 }/*# sourceMappingURL=style.css.map */
