@@ -1,8 +1,3 @@
-body {
-  height: 100vh;
-  width: 100%;
-}
-
 header .topnav {
   display: flex;
   justify-content: space-between;
@@ -30,28 +25,39 @@ header .topnav .logo {
   padding: 20px;
   text-decoration: none;
   color: black;
+  margin-left: 15px;
 }
 
 .container {
+  margin-top: 35px;
+  margin-left: 35px;
+  margin-right: 35px;
   display: grid;
   grid-template-rows: repeat(3, 1fr);
   grid-template-columns: repeat(3, 1fr);
+  gap: 35px;
+}
+.container img {
+  width: 100%;
+  height: 100%;
 }
 
-.navbarlow {
+footer .navbarlow {
   display: flex;
   justify-content: center;
   margin-top: 35%;
+  margin-left: 0;
+  margin-right: 0;
   padding: 20px;
   background-color: black;
 }
-.navbarlow a {
+footer .navbarlow a {
   padding: 18px;
   color: white;
   text-decoration: none;
   border-right: 1px solid;
   line-height: 6px;
 }
-.navbarlow a:last-child {
+footer .navbarlow a:last-child {
   border-right: none;
 }/*# sourceMappingURL=style.css.map */
