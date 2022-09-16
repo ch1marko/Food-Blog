@@ -62,12 +62,12 @@ footer .navbarlow {
   display: flex;
   justify-content: space-between;
   margin-left: 200px;
-  margin-right: 250px;
+  margin-right: 200px;
 }
 footer .navbarlow .icons {
   position: absolute;
   margin-top: 20px;
-  margin-left: 300px;
+  margin-left: 30%;
 }
 footer .navbarlow .icons .insta {
   position: relative;
@@ -81,5 +81,11 @@ footer .navbarlow img {
 footer .navbarlow a {
   color: white;
   text-decoration: none;
-  margin-left: 180px;
+}
+footer .navbarlow #line {
+  color: white;
+}
+footer .navbarlow #copyright {
+  color: white;
+  margin-bottom: 10px;
 }/*# sourceMappingURL=style.css.map */
