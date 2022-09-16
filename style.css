@@ -1,14 +1,14 @@
-header .navi {
+header .topnav {
   display: flex;
   justify-content: space-between;
 }
-header .navi a {
+header .topnav a {
   padding: 35px;
   font-size: 20px;
   text-decoration: none;
   color: black;
 }
-header .navi .logo {
+header .topnav .logo {
   font-size: 25px;
   font-family: "Great Vibes";
 }
