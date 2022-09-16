@@ -76,13 +76,13 @@ footer .navbarlow .icons .insta {
 footer .navbarlow img {
   padding: 30px;
   height: 30px;
-  margin-left: -30px;
+  margin-left: -40px;
 }
 footer .navbarlow a {
   color: white;
   text-decoration: none;
 }
-footer .navbarlow #line {
+footer .navbarlow .line {
   color: white;
 }
 footer .navbarlow #copyright {
