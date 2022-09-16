@@ -18,4 +18,14 @@ body {
 }
 .navbar1 a:hover {
   font-size: 55px;
+}
+
+main {
+  padding: 30px;
+}
+main h1 {
+  text-align: center;
+}
+main p {
+  text-align: center;
 }/*# sourceMappingURL=about.css.map */
