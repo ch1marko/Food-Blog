@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+.navbar1 {
+  display: flex;
+  justify-content: space-between;
+  background-color: blue;
+}
+.navbar1 a {
+  color: white;
+  text-decoration: none;
+  margin-left: 60px;
+  margin-right: 60px;
+  font-size: 35px;
+}/*# sourceMappingURL=about.css.map */
