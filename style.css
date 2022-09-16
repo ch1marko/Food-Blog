@@ -1,0 +1,7 @@
+header .navi {
+  display: flex;
+  justify-content: space-between;
+}
+header .navi a {
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
