@@ -32,6 +32,12 @@ header .topnav .logo {
   color: black;
 }
 
+.container {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr);
+}
+
 .navbarlow {
   display: flex;
   justify-content: center;
