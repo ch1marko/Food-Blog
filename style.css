@@ -42,6 +42,26 @@ header .topnav .logo {
   grid-template-columns: repeat(3, 1fr);
   gap: 35px;
 }
+.container .pic-container {
+  position: relative;
+}
+.container .pic-container .pic-part {
+  width: 100%;
+  height: 100%;
+}
+.container .pic-container .overlay-part {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  color: white;
+  text-align: center;
+  font-size: 13px;
+  padding-top: 10px;
+  padding-bottom: 22px;
+  height: 10%;
+  cursor: default;
+}
 .container img {
   width: 100%;
   height: 100%;
